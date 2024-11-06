@@ -320,6 +320,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author:** Your Name  
-**Contact:** your.email@example.com  
+**Author:** Joseph Zuercher 
+**Contact:** jzuercher09@gmail.com
 **Repository:** [https://github.com/yourusername/ajaxspider](https://github.com/yourusername/ajaxspider)
